@@ -1,0 +1,19 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/pull-data/node_modules
+/pull-data/.pnp
+/pull-data/.pnp.js
+
+# testing
+/pull-data/coverage
+
+# production
+/pull-data/build
+
+# misc
+/pull-data/.DS_Store
+/pull-data/.env.local
+/pull-data/.env.development.local
+/pull-data/.env.test.local
+/pull-data/.env.production.local
